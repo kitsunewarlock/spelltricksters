@@ -24,6 +24,6 @@
     "pf2e"
 	]
 	  "url": "https://github.com/kitsunewarlock/spelltricksters",
-  "manifest": "https://github.com/kitsunewarlock/spelltricksters/master/module.json",
+  "manifest": "https://github.com/kitsunewarlock/spelltricksters/blob/main/module.json",
   "download": "https://github.com/kitsunewarlock/spelltricksters/archive/refs/heads/main.zip"
 }
